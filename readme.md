@@ -25,3 +25,9 @@ Universal holder PCB for all Bastard Keyboards
 # License 
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Components
+
+Reset button: [Würth Elektronik 431151015826](https://www.digikey.be/en/products/detail/w%C3%BCrth-elektronik/431151015826/5209056?s=N4IgTCBcDaICwGYCMSCsSAMaAcYBsIAugL5A)
+Power switch: [NKK Switches AS11AP](https://www.digikey.be/en/products/detail/nkk-switches/AS11AP/1051311)
+JST connector: [Hirose Electric Co Ltd DF3-2P-2DSA(01)](https://www.digikey.be/en/products/detail/hirose-electric-co-ltd/DF3-2P-2DSA-01/413121)
