@@ -2158,16 +2158,16 @@
 					)
 				)
 				(pin input line
-					(at -7.62 -26.67 90)
+					(at 17.78 13.97 180)
 					(length 5.08)
-					(name "P1.01"
+					(name "BATIN/P0.04"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "31"
+					(number "24"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2176,16 +2176,16 @@
 					)
 				)
 				(pin input line
-					(at -3.81 -26.67 90)
+					(at 17.78 11.43 180)
 					(length 5.08)
-					(name "P1.02"
+					(name "GND"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "32"
+					(number "23"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2194,16 +2194,461 @@
 					)
 				)
 				(pin input line
-					(at 0 -26.67 90)
+					(at 17.78 8.89 180)
 					(length 5.08)
-					(name "P1.07"
+					(name "RST"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "33"
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 6.35 180)
+					(length 5.08)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 3.81 180)
+					(length 5.08)
+					(name "AIN7/P0.31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 1.27 180)
+					(length 5.08)
+					(name "AIN5/P0.29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -1.27 180)
+					(length 5.08)
+					(name "AIN0/P0.02"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -3.81 180)
+					(length 5.08)
+					(name "P1.15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -6.35 180)
+					(length 5.08)
+					(name "P1.13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -8.89 180)
+					(length 5.08)
+					(name "P1.11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -11.43 180)
+					(length 5.08)
+					(name "NFC2/P0.10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -13.97 180)
+					(length 5.08)
+					(name "NFC1/P0.09"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "nice_nano_1"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "nice_nano"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 26.67 -63.5 90)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 26.67 -63.5 90)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "nice_nano_1_0_1"
+				(rectangle
+					(start -12.7 -21.59)
+					(end 12.7 19.05)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "nice_nano_1_1_1"
+				(pin input line
+					(at -17.78 13.97 0)
+					(length 5.08)
+					(name "TX0/P0.06"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 11.43 0)
+					(length 5.08)
+					(name "RX1/P0.08"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 8.89 0)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 6.35 0)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 3.81 0)
+					(length 5.08)
+					(name "P0.17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 1.27 0)
+					(length 5.08)
+					(name "P0.20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 -1.27 0)
+					(length 5.08)
+					(name "P0.22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 -3.81 0)
+					(length 5.08)
+					(name "P0.24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 -6.35 0)
+					(length 5.08)
+					(name "P1.00"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 -8.89 0)
+					(length 5.08)
+					(name "P0.11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 -11.43 0)
+					(length 5.08)
+					(name "P1.04"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 -13.97 0)
+					(length 5.08)
+					(name "P1.06"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3389,9 +3834,6 @@
 		(pin "12"
 			(uuid "ea37f59a-5767-480a-a262-c837602280f9")
 		)
-		(pin "33"
-			(uuid "a64cb6f6-3869-428e-8c5b-e52bc9a40659")
-		)
 		(pin "19"
 			(uuid "ac7f4ced-25e6-4b9b-835d-0a7fae25a1fe")
 		)
@@ -3430,12 +3872,6 @@
 		)
 		(pin "13"
 			(uuid "349c1c5c-914d-4156-adbb-893d467c61e8")
-		)
-		(pin "31"
-			(uuid "8255eb44-218f-43f3-b026-a7c577e6b89b")
-		)
-		(pin "32"
-			(uuid "b040a2f1-4b69-46b1-b94e-ad8e2e3b38b2")
 		)
 		(instances
 			(project ""
@@ -3932,6 +4368,7 @@
 		)
 	)
 	(symbol
+		(lib_name "nice_nano_1")
 		(lib_id "nice_nano:nice_nano")
 		(at 48.26 58.42 0)
 		(unit 1)
@@ -4029,23 +4466,14 @@
 		(pin "22"
 			(uuid "517c711c-0835-4545-920b-5f8e78ffe2a1")
 		)
-		(pin "33"
-			(uuid "26dae807-6208-4b31-aefa-a9a08202457f")
-		)
 		(pin "17"
 			(uuid "b1a9f691-2b2e-4986-9cbf-b0a9faac7e20")
-		)
-		(pin "32"
-			(uuid "ea48bf42-2000-4088-b6f1-254b3fc327d6")
 		)
 		(pin "16"
 			(uuid "11d551b9-2a5a-4fd4-9674-340e297b0f0f")
 		)
 		(pin "23"
 			(uuid "0415eaab-3250-4ebb-a78f-aef7eb9743ea")
-		)
-		(pin "31"
-			(uuid "faefa0ad-2a31-472e-bbe7-165386e3fcc3")
 		)
 		(pin "15"
 			(uuid "c15da7fb-f8d2-49ae-9cdf-8a55fe2fd5cd")
