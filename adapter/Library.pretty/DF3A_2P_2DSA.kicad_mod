@@ -192,15 +192,15 @@
 		(uuid "f9fc38c3-a623-4480-a843-5a95b7178f0e")
 	)
 	(embedded_fonts no)
-	(model "C:/Repos/kbd/skeletyle-wireless/DF3-2P-2DSA.stp"
+	(model "${KIPRJMOD}/3d/DF3-2P-2DSA.stp"
 		(offset
-			(xyz -0.45 -11.19 1.1)
+			(xyz -0.45 -11.18 1)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 90 -180 -90)
+			(xyz -90 -0 90)
 		)
 	)
 )
