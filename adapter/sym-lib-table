@@ -6,4 +6,5 @@
   (lib (name "431151015826")(type "KiCad")(uri "${KIPRJMOD}/symbols/431151015826.kicad_sym")(options "")(descr ""))
   (lib (name "CAS-120TA")(type "KiCad")(uri "${KIPRJMOD}/symbols/2026-01-26_19-19-41.kicad_sym")(options "")(descr ""))
   (lib (name "TL9210AF180Q")(type "KiCad")(uri "${KIPRJMOD}/symbols/TL9210AF180Q.kicad_sym")(options "")(descr ""))
+  (lib (name "S2B-PH-SM4-TB")(type "KiCad")(uri "${KIPRJMOD}/symbols/S2B-PH-SM4-TB.kicad_sym")(options "")(descr ""))
 )
